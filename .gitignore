@@ -69,3 +69,4 @@ mm.log
 apex-scripts/*
 !apex-scripts/*.cls
 
+!/src/main/resources/tempObject.txt
