@@ -14,7 +14,7 @@ public class Bacon extends Garnish{
 
     @Override
     public Double cost() {
-        return getPrice() + getFastFood().getPrice();
+        return super.getPrice() + getFastFood().cost();
     }
 
     //此处重写了父类的方法

@@ -57,5 +57,12 @@ public class Client {
         FastFood baconFriedNoodles = new Bacon(friedNoodles);
         System.out.println("点了" + baconFriedNoodles.getDesc() + "，消费：" + baconFriedNoodles.cost());
 
+        System.out.println("========================================");
+
+        /**
+         * 注意与桥接模式不同
+         */
+        FastFood eggBaconFriedNoodles = new Egg(baconFriedNoodles);
+        System.out.println("点了" + eggBaconFriedNoodles.getDesc() + "，消费：" + eggBaconFriedNoodles.cost());
     }
 }

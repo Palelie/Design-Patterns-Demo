@@ -19,7 +19,7 @@
    - **[代理模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No5代理模式)**
    - **[适配器模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No6适配器模式)**
    - [装饰器模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No7装饰者模式)
-   - [桥接模式](#)
+   - [桥接模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No8桥接模式)
    - **[外观模式](#)**
    - [组合模式](#)
    - [享元模式](#)

@@ -14,7 +14,7 @@ public class Egg extends Garnish{
 
     @Override
     public Double cost() {
-        return getFastFood().getPrice() + getPrice();
+        return getFastFood().cost() + super.getPrice();
     }
 
     //此处重写了父类的方法
