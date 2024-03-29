@@ -22,19 +22,19 @@
    - [桥接模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No8桥接模式)
    - **[外观模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No9外观模式)**
    - [组合模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No10组合模式)
-   - [享元模式](#)
-3. [行为型模式](#行为型模式)
-   - **[模板方法模式](#)**
-   - **[策略模式](#)**
-   - [命令模式](#)
-   - **[责任链模式](#)**
-   - [状态模式](#)
-   - **[观察者模式](#)**
-   - [中介者模式](#)
-   - **[迭代器模式](#)**
-   - [访问者模式](#)
-   - [备忘录模式](#)
-   - [解释器模式](#)
+   - [享元模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/结构型模式/No11享元模式)
+3. [行为型模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式)
+   - **[模板方法模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No12模板方法模式)**
+   - **[策略模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No13策略模式)**
+   - [命令模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No14命令模式)
+   - **[责任链模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No15责任链模式)**
+   - [状态模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No16状态模式)
+   - **[观察者模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No17观察者模式)**
+   - [中介者模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No18中介者模式)
+   - **[迭代器模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No19迭代器模式)**
+   - [访问者模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No20访问者模式)
+   - [备忘录模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No21备忘录模式)
+   - [解释器模式](https://github.com/Palelie/Design-Patterns-Demo/tree/master/src/main/java/行为型模式/No22解释器模式)
 
 
 
