@@ -5,6 +5,9 @@ package 行为型模式.No12模板方法模式;
  */
 public abstract class AbstractCooking {
 
+    /*
+      模板方法：定义了算法的骨架，按某种顺序调用其包含的基本方法。
+     */
     //做饭流程
     public final void cookProcess(){
         //1.倒油
@@ -18,18 +21,23 @@ public abstract class AbstractCooking {
         //5.翻炒
         this.fry();
     }
+    //基本方法（具体方法）：是实现算法各个步骤的方法，是模板方法的组成部分
     public void pourOil(){
         System.out.println("倒油");
     }
 
+    //基本方法（具体方法）
     public void heatOil(){
         System.out.println("热油");
     }
 
+    //基本方法（抽象方法）
     public abstract void pourFood();
 
+    //基本方法（抽象方法）
     public abstract void pourSauce();
 
+    //基本方法（具体方法）
     public void fry(){
         System.out.println("翻炒");
     }
