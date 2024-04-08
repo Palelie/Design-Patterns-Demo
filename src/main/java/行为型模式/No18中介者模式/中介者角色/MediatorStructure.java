@@ -24,6 +24,7 @@ public class MediatorStructure extends Mediator{
         tenantList.add(tenant);
     }
 
+    //这个constact方法是中介向同事类角色联系（解耦各个同事类的关键逻辑）
     @Override
     public void constact(String message, Person person) {
         //如果是房主联系的中介，那么就需要中介向租户传递消息

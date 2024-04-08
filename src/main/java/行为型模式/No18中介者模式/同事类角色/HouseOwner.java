@@ -12,7 +12,7 @@ public class HouseOwner extends Person{
         super(name, mediator);
     }
 
-    //与中介者联系
+    //这个constact方法是房主与中介者联系
     public void constact(String message){
         mediator.constact(message,this);
     }
